@@ -32,7 +32,7 @@
 /* Select the image with the class "yellow_diamond" */
 
 /*selector for yellow diamond goes here */
-#ocean img{
+#ocean + img{
   position: absolute;
   z-index: 4;
   top: 325px;
